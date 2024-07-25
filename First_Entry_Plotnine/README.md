@@ -12,9 +12,9 @@ An abstract heatmap that transforms data points into a vibrant, annotated tapest
 
 ## 🔗 Code & Visualizations
 
-1. **Notebook:** p9_contest_art_viz_notebook.ipynb
-2. **Tetris Visualization:** p9_tetris.png
-3. **Heatmap Visualization:** p9_abstract_heatmap.png
+1. **Notebook:** ```p9_contest_art_viz_notebook.ipynb```
+2. **Tetris Visualization:** ```p9_tetris.png```
+3. **Heatmap Visualization:** ```p9_abstract_heatmap.png```
 
 ## 💡 The Vision
 This project aims to push the boundaries of what's possible with plotnine, blending data science with artistic expression. It's not just about visualizing data; it's about creating visual stories that captivate and inspire.
